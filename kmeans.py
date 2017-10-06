@@ -1,4 +1,4 @@
-# Assignment 1, Part 1: K-means
+K-means
 
 import random
 
